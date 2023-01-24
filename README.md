@@ -1,11 +1,15 @@
-# Content  
+# Kilian's Homepage  
 
-## **_Contact_**  
+**GitHub:** <github.com/kiso6>  
+
+## Content  
+
+### **_Contact_**  
 
 **LinkedIn**: <https://www.linkedin.com/in/kilian-soual/>  
 **E-mail**: <soual@insa-toulouse.fr>  
 
-## **_Projects_**  
+### **_Projects_**  
 
 -> <https://github.com/kiso6/Bureau_d_etudes_Trottinettes>  
   @ INSA Toulouse Fall 2022/2023  
