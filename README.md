@@ -1,4 +1,6 @@
-# Kilian's Homepage  
+title: Kilian's Homepage  
+theme: minimal  
+
 
 **GitHub:** <https://github.com/kiso6>  
 
