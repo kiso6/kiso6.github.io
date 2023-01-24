@@ -2,8 +2,8 @@
 
 ## **_Contact_**  
 
-**_LinkedIn_**: <https://www.linkedin.com/in/kilian-soual/>  
-**_e-mail_**: <soual@insa-toulouse.fr>  
+**LinkedIn**: <https://www.linkedin.com/in/kilian-soual/>  
+**E-mail**: <soual@insa-toulouse.fr>  
 
 ## **_Projects_**  
 
