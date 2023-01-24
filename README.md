@@ -1,6 +1,6 @@
 # Kilian's Homepage  
 
-**GitHub:** <github.com/kiso6>  
+**GitHub:** <https://github.com/kiso6>  
 
 ## Content  
 
