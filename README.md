@@ -8,6 +8,7 @@
 
 **LinkedIn**: <https://www.linkedin.com/in/kilian-soual/>  
 **E-mail**: <soual@insa-toulouse.fr>  
+**CV**: <https://kiso6.github.io/about/CV_KILIAN_SOUAL.pdf>  
 
 ### **_Projects_**  
 
