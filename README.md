@@ -5,7 +5,7 @@
 **_LinkedIn_**: https://www.linkedin.com/in/kilian-soual/  
 **_e-mail_**: soual@insa-toulouse.fr  
 
-## **_Repositories_**  
+## **_Projects_**  
 
 -> https://github.com/kiso6/Bureau_d_etudes_Trottinettes  
   @ INSA Toulouse Fall 2022/2023  
