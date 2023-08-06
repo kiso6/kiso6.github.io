@@ -11,7 +11,7 @@
 ### **_Projects_**  
 
 -> <https://github.com/kiso6/projet_cpp_4AESE>  
-  @ INSA Toulouse Summer 2022/2023  
+  @ INSA Toulouse Spring 2022/2023  
   _Desc: Re-using childhood toys and arduino to
   make a remote control vehicle._
 
